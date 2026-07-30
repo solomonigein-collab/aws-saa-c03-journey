@@ -1,7 +1,12 @@
-# AWS SAA-C03 60-Day Challenge - Day 1 to Day 4 Full Tutorial
-### By Solomon Igein - From Zero to CloudWatch + Snapshot
-**Region:** us-east-1 (N. Virginia)  |  **Instance:** day2-test-server i-0cae82d2c78d9694d
+# AWS SAA-C03 60-Day Journey - Day 7 Complete
 
+### By Solomon Igein - Zero to CloudWatch + Snapshot + ALB + ASG + SNS
+
+**Region:** us-east-1 (N. Virginia) | **Instance:** day2-test-server i-0cae82d2c78d9694d | **ASG:** day5-asg (1/1 Healthy) | **ALB:** day5-alb | **SNS:** day7-alarms | **Alarm:** day7-high-cpu-70
+
+**Progress:** Day 1 ✅ Day 2 ✅ Day 3 ✅ Day 4 ✅ Day 5 ✅ Day 6 ✅ Day 7 ✅ SNS + CloudWatch Notifications TODAY!
+
+---
 ---
 
 ## Day 1: Launch Your First EC2 Server
